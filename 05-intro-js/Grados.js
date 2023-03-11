@@ -1,6 +1,6 @@
 var temperatura= prompt("¿Cuántos grados Fahrenheit?")
-console.log(temperatura);
+ console.log(temperatura);
+    var celsius= (temperatura - 32) * (0.5556);
+console.log(celsius);
 
-function convertirCelsius(){
-     var celsius= (grados Farenheit- 32) * (5/9);
-}
+alert(celsius)
