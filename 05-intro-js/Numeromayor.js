@@ -17,4 +17,4 @@ var n1,n2,n3,t,mayor;
 		mayor = n3;
 	}
 
-	document.write("El mayor es "+mayor);
+	alert("El mayor es "+mayor);
